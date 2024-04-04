@@ -9,6 +9,8 @@ import nodeIcon from "../../assets/node-icon.svg";
 import reactIcon from "../../assets/react-icon.svg";
 import typescriptIcon from "../../assets/typescript-icon.svg";
 import vueIcon from "../../assets/vue-icon.svg";
+import phpIcon from "../../assets/php-logo-only-letter-2.svg";
+
 import boostrapIcon from "../../assets/bootstrap-icon.svg";
 import ScrollAnimation from "react-animate-on-scroll";
 
@@ -38,7 +40,7 @@ export function About() {
         <div className="hard-skills">
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.10 * 1000}>
-              <img src={wordpress} alt="Wordpress" />
+              <img src={phpIcon} alt="PHP" />
             </ScrollAnimation>
           </div>
           <div className="hability">
