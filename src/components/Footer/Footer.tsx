@@ -14,8 +14,8 @@ export function Footer() {
    
       <div>
         <p>
-          This Website was made with <img src={reactIcon} alt="React" />
-          {/* <span>❤️</span> */}
+          © Copyright idriss boukmouche
+         <span>❤️</span>
         </p>
       </div>
       <div className="social-media">
