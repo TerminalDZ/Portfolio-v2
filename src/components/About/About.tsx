@@ -1,5 +1,5 @@
 import { Container } from "./styles";
-import IdrissBoukmouche from "../../assets/IMG_20240105_145415152_HDR_2-removebg-preview.png";
+import IdrissBoukmouche from "../../assets/IdrissBoukmouche.png";
 import wordpress from "../../assets/wordpress.svg";
 import shopify from "../../assets/shopify.svg";
 import htmlIcon from "../../assets/html-icon.svg";
