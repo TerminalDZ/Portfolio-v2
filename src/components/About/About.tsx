@@ -13,7 +13,7 @@ import phpIcon from "../../assets/php-1.svg";
 import laravelIcon from "../../assets/laravel-2.svg";
 import mysqlIcon from "../../assets/mysql-icon.svg";
 import codeigniterIcon from "../../assets/codeigniter.svg";
-import sqliteIcon from "../../assets/sqlite-1.svg";
+import sqliteIcon from "../../assets/sqlite.svg";
 
 
 
