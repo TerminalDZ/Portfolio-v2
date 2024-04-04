@@ -9,7 +9,13 @@ import nodeIcon from "../../assets/node-icon.svg";
 import reactIcon from "../../assets/react-icon.svg";
 import typescriptIcon from "../../assets/typescript-icon.svg";
 import vueIcon from "../../assets/vue-icon.svg";
-import phpIcon from "../../assets/php-logo-only-letter-2.svg";
+import phpIcon from "../../assets/php-1.svg";
+import laravelIcon from "../../assets/laravel-2.svg";
+import mysqlIcon from "../../assets/mysql-icon.svg";
+import codeigniterIcon from "../../assets/codeigniter.svg";
+import sqliteIcon from "../../assets/sqlite-1.svg";
+
+
 
 import boostrapIcon from "../../assets/bootstrap-icon.svg";
 import ScrollAnimation from "react-animate-on-scroll";
@@ -45,22 +51,22 @@ export function About() {
           </div>
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.12 * 1000}>
-              <img src={shopify} alt="shopify" />
+              <img src={laravelIcon} alt="Laravel" />
             </ScrollAnimation>
           </div>
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.13 * 1000}>
-              <img src={reactIcon} alt="React" />
+              <img src={mysqlIcon} alt="Mysql" />
             </ScrollAnimation>
           </div>
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.14 * 1000}>
-              <img src={typescriptIcon} alt="Typescript" />
+              <img src={codeigniterIcon} alt="Codeigniter" />
             </ScrollAnimation>
           </div>
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.15 * 1000}>
-              <img src={vueIcon} alt="Vue" />
+              <img src={sqliteIcon} alt="Sqilte" />
             </ScrollAnimation>
           </div>
           <div className="hability">
